@@ -84,7 +84,7 @@ Mehrere Leute am selben PC? Zenith kennt **Owner**, **Operator** und **Viewer**.
 
 **Warnt mein Virenscanner?** Möglich — Tuning‑Tools ändern Registry/Dienste und die `.exe` ist nicht teuer signiert. Das ist ein Fehlalarm; ggf. eine Ausnahme setzen.
 
-**Sammelt Zenith Daten?** Nein. Keine Telemetrie, keine Cloud, nichts verlässt deinen PC.
+**Sammelt Zenith Daten?** Diese geteilte Version meldet dem Entwickler beim Start einmal, dass du sie nutzt (dein Windows-Name + PC-Name, verschlüsselt übertragen) — damit er sieht, dass sie genutzt wird. Sonst nichts: keine weitere Telemetrie, keine Werbung, keine Cloud-Konten.
 
 **Läuft auf Windows 10?** Ja, Windows 10 & 11 (64‑bit).
 
