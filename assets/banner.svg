@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Zenith">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0e13"/>
+      <stop offset="1" stop-color="#121826"/>
+    </linearGradient>
+    <linearGradient id="az" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5BC8FF"/>
+      <stop offset="1" stop-color="#2A93DB"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#35B6F6" stop-opacity="0.33"/>
+      <stop offset="1" stop-color="#35B6F6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="none" stroke="#1f2a3a" stroke-width="2"/>
+  <circle cx="190" cy="150" r="190" fill="url(#glow)"/>
+
+  <!-- Zenith mark: an upward peak with its summit point -->
+  <g transform="translate(96 78)">
+    <path d="M70 8 L132 140 L8 140 Z" fill="none" stroke="url(#az)" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M70 52 L104 125 L36 125 Z" fill="url(#az)" opacity="0.18"/>
+    <circle cx="70" cy="8" r="9" fill="#5BC8FF"/>
+    <circle cx="70" cy="8" r="20" fill="#5BC8FF" opacity="0.35" filter="url(#soft)"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="270" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="700" fill="#f3f6fb" letter-spacing="1">Zenith</text>
+  <text x="274" y="196" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="400" fill="#8b97a7">Windows tuning &amp; privacy — no subscription, no nonsense.</text>
+
+  <!-- feature chips -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">
+    <g transform="translate(274 228)">
+      <rect width="132" height="38" rx="19" fill="#141c2a" stroke="#294058"/>
+      <text x="66" y="25" fill="#9fd8f8" text-anchor="middle">Game Mode</text>
+    </g>
+    <g transform="translate(418 228)">
+      <rect width="104" height="38" rx="19" fill="#141c2a" stroke="#294058"/>
+      <text x="52" y="25" fill="#9fd8f8" text-anchor="middle">Privacy</text>
+    </g>
+    <g transform="translate(534 228)">
+      <rect width="112" height="38" rx="19" fill="#141c2a" stroke="#294058"/>
+      <text x="56" y="25" fill="#9fd8f8" text-anchor="middle">Debloat</text>
+    </g>
+    <g transform="translate(658 228)">
+      <rect width="150" height="38" rx="19" fill="#141c2a" stroke="#294058"/>
+      <text x="75" y="25" fill="#9fd8f8" text-anchor="middle">Auto-updates</text>
+    </g>
+  </g>
+</svg>
