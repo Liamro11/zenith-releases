@@ -48,6 +48,12 @@ Zenith bündelt die Dinge, für die man sonst fünf verschiedene Tools (oder ein
 <img src="assets/gamemode.png" alt="Game Mode" width="88%" />
 </div>
 
+<br/>
+
+<div align="center">
+<img src="assets/gpu.png" alt="GPU & Benchmark" width="88%" />
+</div>
+
 ---
 
 ## Sicherheit zuerst
