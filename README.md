@@ -34,6 +34,7 @@ Zenith bündelt die Dinge, für die man sonst fünf verschiedene Tools (oder ein
 | Modul | Was es macht |
 |---|---|
 | 🎮 **Game Mode** | Pausiert/drosselt Hintergrund‑Apps & ‑Dienste, schaltet den Energieplan um — und stellt beim Beenden alles zurück. Anti‑Cheat, Audio, GPU‑Treiber & Launcher werden **nie** angefasst. |
+| 🎚️ **GPU** | GPU‑Infos & Live‑Auslastung, ein echter 3D‑Benchmark (Avg‑ & 1 %‑Low‑FPS) und FPS‑Profile (Competitive / Balanced / Light) — passt sich an deine Grafikkarte an. |
 | 🛡️ **Privacy** | Schaltet Telemetrie, Werbe‑ID, Aktivitätsverlauf, Game‑Bar‑Overlay u. v. m. ab. |
 | 🧹 **Cleanup & Cache** | Temp‑Dateien, Update‑Cache und Papierkorb — zeigt vorher, was freigeräumt wird. |
 | 💽 **Disk Analyzer** | Findet die größten Platzfresser auf der Platte. |
@@ -84,7 +85,7 @@ Mehrere Leute am selben PC? Zenith kennt **Owner**, **Operator** und **Viewer**.
 
 **Warnt mein Virenscanner?** Möglich — Tuning‑Tools ändern Registry/Dienste und die `.exe` ist nicht teuer signiert. Das ist ein Fehlalarm; ggf. eine Ausnahme setzen.
 
-**Sammelt Zenith Daten?** Diese geteilte Version meldet dem Entwickler beim Start einmal, dass du sie nutzt (dein Windows-Name + PC-Name, verschlüsselt übertragen) — damit er sieht, dass sie genutzt wird. Sonst nichts: keine weitere Telemetrie, keine Werbung, keine Cloud-Konten.
+**Sammelt Zenith Daten?** Diese geteilte Version registriert sich beim Start einmal beim Entwickler (dein Windows-Name + PC-Name) — damit er sieht, dass sie genutzt wird, und eine geteilte Kopie bei Bedarf sperren kann. Sonst nichts: keine weitere Telemetrie, keine Werbung, keine Cloud-Konten.
 
 **Läuft auf Windows 10?** Ja, Windows 10 & 11 (64‑bit).
 
