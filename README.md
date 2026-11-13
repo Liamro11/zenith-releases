@@ -6,12 +6,12 @@
 
 **Ein schnelles, aufgeräumtes Windows‑Tuning‑ & Privacy‑Tool — ohne Abo, ohne Werbung, ohne Cloud.**
 
-[![Release](https://img.shields.io/github/v/release/Liamro11/zenith-releases?label=Version&color=35B6F6&style=for-the-badge)](https://github.com/Liamro11/zenith-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Liamro11/zenith-releases/total?label=Downloads&color=35B6F6&style=for-the-badge)](https://github.com/Liamro11/zenith-releases/releases)
+[![Release](https://img.shields.io/github/v/release/Liamro11/Zenith?label=Version&color=35B6F6&style=for-the-badge)](https://github.com/Liamro11/Zenith/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Liamro11/Zenith/total?label=Downloads&color=35B6F6&style=for-the-badge)](https://github.com/Liamro11/Zenith/releases)
 ![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-35B6F6?style=for-the-badge&logo=windows)
 ![No subscription](https://img.shields.io/badge/100%25-kostenlos-2ecc71?style=for-the-badge)
 
-### [⬇️  Download — Zenith für Windows](https://github.com/Liamro11/zenith-releases/releases/latest/download/Zenith-dist.exe)
+### [⬇️  Download — Zenith für Windows](https://github.com/Liamro11/Zenith/releases/latest/download/Zenith-dist.exe)
 
 <sub>Eine einzige `.exe` · kein Installer · keine .NET‑Runtime nötig · updatet sich selbst</sub>
 
@@ -82,7 +82,7 @@ Mehrere Leute am selben PC? Zenith kennt **Owner**, **Operator** und **Viewer**.
 
 ## Installation
 
-1. **[Zenith herunterladen](https://github.com/Liamro11/zenith-releases/releases/latest/download/Zenith-dist.exe)**
+1. **[Zenith herunterladen](https://github.com/Liamro11/Zenith/releases/latest/download/Zenith-dist.exe)**
 2. Doppelklick. Kommt **SmartScreen** („Der Computer wurde geschützt"), dann: **Weitere Informationen → Trotzdem ausführen** (die `.exe` ist nur nicht signiert).
 3. **UAC** mit „Ja" bestätigen (Zenith braucht Adminrechte, um tweaken zu können).
 4. Fertig — kein Installer, keine .NET‑Runtime nötig.
