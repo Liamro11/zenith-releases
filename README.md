@@ -34,12 +34,12 @@ Zenith bündelt die Dinge, für die man sonst fünf verschiedene Tools (oder ein
 | Modul | Was es macht |
 |---|---|
 | 🎮 **Game Mode** | Pausiert/drosselt Hintergrund‑Apps & ‑Dienste, schaltet den Energieplan um — und stellt beim Beenden alles zurück. Anti‑Cheat, Audio, GPU‑Treiber & Launcher werden **nie** angefasst. |
-| 🎚️ **GPU** | GPU‑Infos & Live‑Auslastung, ein echter 3D‑Benchmark (Avg‑ & 1 %‑Low‑FPS) und FPS‑Profile (Competitive / Balanced / Light) — passt sich an deine Grafikkarte an. |
+| 🎚️ **GPU** | GPU‑Infos & Live‑Auslastung (inkl. VRAM), ein echter 3D‑Benchmark mit wählbarer Länge & Intensität (Avg‑, 1 %‑ & 0,1 %‑Low‑FPS) und FPS‑Profile (Competitive / Balanced / Light). Kann die App auf Laptops auf die **dedizierte GPU** zwingen. |
 | 🛡️ **Privacy** | Schaltet Telemetrie, Werbe‑ID, Aktivitätsverlauf, Game‑Bar‑Overlay u. v. m. ab. |
 | 🧹 **Cleanup & Cache** | Temp‑Dateien, Update‑Cache und Papierkorb — zeigt vorher, was freigeräumt wird. |
 | 💽 **Disk Analyzer** | Findet die größten Platzfresser auf der Platte. |
 | ⚙️ **Process Manager** | Prozesse ansehen, Priorität/Affinität setzen, beenden. |
-| 🧩 **Drivers** | Treiber‑Inventar + Suche nach Updates — rein über Windows‑Bordmittel. |
+| 🧩 **Drivers** | Vollständiges Treiber‑Inventar nach Kategorie + Suche nach Updates — rein über Windows‑Bordmittel. |
 | 📦 **Debloat** | Entfernt vorinstallierten Windows‑Ballast. |
 | 🔧 **Services** | Windows‑Dienste gezielt steuern. |
 | ⏪ **Backups / Revert** | Jede Änderung landet im Journal und lässt sich zurücknehmen. |
@@ -52,6 +52,12 @@ Zenith bündelt die Dinge, für die man sonst fünf verschiedene Tools (oder ein
 
 <div align="center">
 <img src="assets/gpu.png" alt="GPU & Benchmark" width="88%" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="assets/drivers.png" alt="Drivers" width="88%" />
 </div>
 
 ---
